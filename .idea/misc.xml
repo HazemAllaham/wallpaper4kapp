@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/drawable/bottom_layout_background.xml" value="0.2115" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/drawable/icon_background_white.xml" value="0.2115" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/drawable/nav_icon_back.xml" value="0.2115" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/drawable/round_transparent.xml" value="0.2115" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/drawable/search_background.xml" value="0.2115" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/activity_color.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/activity_image.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/activity_search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/fragment_abstract.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/fragment_cityscape.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/fragment_collection.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/fragment_featured.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/fragment_inspiration.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/fragment_portrait.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/fragment_saved.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/image_sheet.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/layout_gallery.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/layout_image.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/layout_imge.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/Android Projects/Hazem Reskin 2022/Wallpaper/app/src/main/res/layout/layout_popular.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

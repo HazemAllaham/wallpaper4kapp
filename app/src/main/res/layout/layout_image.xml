@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="4dp"
+    android:elevation="8dp"
+    android:background="@drawable/image_background"
+    app:cardCornerRadius="16dp">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:elevation="12dp"/>
+
+    <ProgressBar
+        android:id="@+id/progress"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:indeterminate="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:padding="100dp"/>
+
+    <ImageView
+        android:id="@+id/bookmark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_outline_bookmark_border_24"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="16dp"
+        app:tint="@color/white"
+        android:layout_marginBottom="16dp"
+        android:padding="8dp"
+        android:elevation="16dp"
+        android:background="@drawable/image_background"/>
+
+</FrameLayout>
